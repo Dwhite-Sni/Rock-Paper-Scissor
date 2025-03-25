@@ -28,7 +28,7 @@ def roundrps(gamecount, userwins, comwins, username, tiecount, comloss, userloss
         userwins = userwins + 1
         comloss = comloss + 1
     else:
-        print('Computer wins')
+        print('Ha, I have bested thee this time!')
         gamecount = gamecount + 1
         comwins = comwins + 1
         userloss = userloss + 1 

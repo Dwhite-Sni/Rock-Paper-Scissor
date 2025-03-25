@@ -1,5 +1,6 @@
 Overview
-This is a simple command-line Python program that plays a best-of-five Rock, Paper, Scissors game against the user. The program keeps track of the score and displays the final results, including win/loss/draw counts and a personalized victory or defeat message.
+Fight against the knight sir Compute in this is a simple command-line Python program that plays a best-of-five Rock, Paper, Scissors game against the user. 
+The program keeps track of the score and displays the final results, including win/loss/draw counts and a personalized victory or defeat message.
 
 Features
 Prompts the player for their name at the beginning.
